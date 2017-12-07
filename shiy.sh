@@ -51,3 +51,4 @@ else
     echo "口令过期警告时间天数(PASS_WARN_AGE)为${passage},不符合要求，建议设置大于等于30并小于口令生存周期" >> /tmp/${ipadd}_out.txt
 fi
 
+echo "ss.txt"
